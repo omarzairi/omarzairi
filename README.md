@@ -16,11 +16,11 @@
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omarzairi&show_icons=true&locale=en&layout=compact&hide=css" alt="omarzairi" style="height: 195px;" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarzairi&show_icons=true&locale=en" alt="omarzairi" style="height: 195px;" />
+  <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omarzairi&show_icons=true&locale=en&layout=compact&hide=css" alt="omarzairi" style="height: 195px; width: 45%;" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarzairi&show_icons=true&locale=en" alt="omarzairi" style="height: 195px; width: 45%;" />
   </div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarzairi&theme=dark" alt="omarzairi" style="width: 70%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarzairi&theme=dark" alt="omarzairi" style="width: 60%;" />
 
 </div>
