@@ -15,8 +15,8 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
   <div style="display: flex; justify-content: space-between; width: 100%; flex-wrap: nowrap;">
-     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omarzairi&show_icons=true&locale=en&layout=compact&hide=css,html&count_private=true&token=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" alt="omarzairi" style="height: 195px; width: 41%; object-fit: contain;" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarzairi&show_icons=true&locale=en&count_private=true&token=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" alt="omarzairi" style="height: 195px; width: 45%; object-fit: contain;" />
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=omarzairi&show_icons=true&locale=en&layout=compact&hide=css,html&count_private=true&token=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" alt="omarzairi" style="height: 195px; width: 41%; object-fit: contain;" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarzairi&show_icons=true&locale=en&count_private=true&token=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" alt="omarzairi" style="height: 195px; width: 45%; object-fit: contain;" />
   </div>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarzairi&theme=dark" alt="omarzairi" style="width: 60%;" />
