@@ -17,18 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: omarzairi
-          show_icons: true
-          theme: tokyonight
-          hide_border: true
-          rank_icon: github
-          include_all_commits: true
-          path: stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download stats card
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=omarzairi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
 
       - name: Commit stats
         run: |
