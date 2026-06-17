@@ -139,9 +139,7 @@ Arabic · English · French
 <tbody>
 <tr>
 <td width="50%" align="center" valign="top">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="420" src="https://github-readme-stats.vercel.app/api?username=omarzairi&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  </a>
+  <img width="420" src="./stats.svg" alt="GitHub stats" />
 </td>
 <td width="50%" align="center" valign="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
