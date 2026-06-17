@@ -151,9 +151,7 @@ Arabic · English · French
 </tr>
 <tr>
 <td align="center" valign="top">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="420" src="https://streak-stats.demolab.com/?user=omarzairi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
-  </a>
+  <img width="420" src="./streak.svg" alt="GitHub contribution streak" />
 </td>
 <td align="center" valign="top">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
